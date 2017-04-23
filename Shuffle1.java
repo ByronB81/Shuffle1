@@ -8,6 +8,7 @@ class Shuffle1 {
       }
       x = x - 1;
       System.out.print("-");
+      System.out.print("working?");
     }
   }
 }
